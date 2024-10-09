@@ -4,3 +4,5 @@ This Random Color Generator web application is built using HTML, CSS, and JavaSc
 The application generates a random color every time the user clicks a button.
 It displays the color on the screen along with its corresponding RGB code, 
 allowing users to copy the code for use in their own designs or projects.
+
+## Click for live : http://192.168.0.159:5500/Random-Color-Generator-main/index.html
